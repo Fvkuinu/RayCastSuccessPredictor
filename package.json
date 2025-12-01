@@ -1,0 +1,21 @@
+{
+  "name": "miyashitalab",
+  "version": "1.0.0",
+  "displayName": "Selection Success Rate Visualizer",
+  "description": "Unityエディタ上で3DオブジェクトやUI要素の選択成功率をリアルタイムで計算・可視化するツール。VR/ARのユーザビリティ評価における指針として活用できます。",
+  "unity": "2022.3",
+  "keywords": [
+    "editor",
+    "visualization",
+    "ux",
+    "ui",
+    "accessibility",
+    "vr",
+    "ar"
+  ],
+  "author": {
+    "name": "Fvkuinu",
+    "email": "okuno.tatsuya822@gmail.com"
+  },
+  "dependencies": {}
+}

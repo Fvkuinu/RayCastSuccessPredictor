@@ -1,5 +1,5 @@
 {
-  "name": "miyashitalab",
+  "name": "com.miyashitalab.success-rate-visualizer",
   "version": "1.0.0",
   "displayName": "Selection Success Rate Visualizer",
   "description": "Unityエディタ上で3DオブジェクトやUI要素の選択成功率をリアルタイムで計算・可視化するツール。VR/ARのユーザビリティ評価における指針として活用できます。",

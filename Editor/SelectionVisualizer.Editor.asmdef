@@ -1,5 +1,5 @@
 {
-    "name": "NewAssembly",
+    "name": "com.miyashitalab.success-rate-visualizer.editor",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [
